@@ -61,7 +61,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-jsbeautifier');
-  grunt.registerTask('test', ['connect', 'qunit']);
-  grunt.registerTask('default', ['jsbeautifier', 'jshint', 'test', 'uglify']);
+  grunt.registerTask('default', ['jsbeautifier', 'jshint', 'uglify']);
 
 };
