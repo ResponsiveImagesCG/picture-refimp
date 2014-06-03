@@ -1,3 +1,9 @@
+## DONT USE THIS! 
+
+This repository is here for historical reasons - it was out attempt to understand how the srcset parser worked. 
+
+## DONT USE THIS! Seriously. It's out of date 
+
 This is a non-official version of the proposal at: <a href="http://dvcs.w3.org/hg/html-proposals/raw-file/tip/responsive-images/responsive-images.html">http://dvcs.w3.org/hg/html-proposals/raw-file/tip/responsive-images/responsive-images.html</a>
 
 This repo is indended solely for the sake of basic issue tracking, and public contributions to the editing and formatting of the proposal. Discussion of potential/outstanding issues with the proposal should remain on the <a href="mailto:public-html@w3.org">HTML WG mailing list</a>, <a href="public-respimg@w3.org"><abbr title="Responsive Images Community Group">RICG mailing list</a>, or both.
